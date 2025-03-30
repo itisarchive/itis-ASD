@@ -23,7 +23,7 @@ public class Hoare {
         ZŁOŻONOŚĆ
     O.D.: porównanie dwóch elementów ciągu
     R.D.: długość ciągu arr
-    W(n) = O(nlog(n))
+    W(n) = O(n^2)
     A(n) = O(n)
     S(n) = O(1)
  */
